@@ -46,11 +46,6 @@ india-explore/
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project here)
-
----
 
 ## 📌 Future Improvements
 
